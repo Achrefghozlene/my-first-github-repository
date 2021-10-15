@@ -7,3 +7,5 @@ this line is added to feature 2 branch
 another modification in feature-2 branch 
 
 new commit for name
+
+feature2 to verify changes of Refs between remote and lcoal
