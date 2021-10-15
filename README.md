@@ -7,3 +7,4 @@ this line is modified manually during conflicts resolution
 new line is added locally \*\*\*
 
 another line to verify names
+another commit from VScode And push from vsCode
